@@ -2,7 +2,7 @@
 
 1- Building the gpu/digits-trainer:v1 image
 
-sudo ./build-gpu-digits.sh
+sudo ./build_gpu_digits.sh
 
 2- Running and testing the Digits and CUDA Docker based container
 
